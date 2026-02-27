@@ -9,8 +9,8 @@
     <!-- Canonical link for SEO - tells search engines the preferred URL -->
     <link rel="canonical" href="https://nihaltp.vercel.app/">
     
-    <!-- Meta refresh tag for redirect (2 seconds delay as fallback when JavaScript is disabled) -->
-    <meta http-equiv="refresh" content="2; url=https://nihaltp.vercel.app/">
+    <!-- Meta refresh tag for redirect -->
+    <meta http-equiv="refresh" content="0; url=https://nihaltp.vercel.app/">
     
     <!-- Robots meta tag to prevent indexing this redirect page -->
     <meta name="robots" content="noindex, follow">
@@ -18,9 +18,7 @@
     <!-- JavaScript redirect for immediate navigation -->
     <script>
         // Small delay to allow users to see the redirect message
-        setTimeout(function() {
-            window.location.replace("https://nihaltp.vercel.app/");
-        }, 500);
+        window.location.replace("https://nihaltp.vercel.app/");
     </script>
     
     <style>
