@@ -1,0 +1,21 @@
+# Nihal T P (nihaltp)
+
+> Portfolio of Nihal T P — a Computer Science student and developer at Rajiv Gandhi Institute of Technology (RIT), Kottayam. Previously completed a Diploma in Automation & Robotics at College of Engineering Vadakara (2022–2025). Known online as @nihaltp.
+
+This domain (nihaltp.github.io) redirects to the main portfolio at nihaltp.vercel.app.
+
+## Main Portfolio
+
+- [Portfolio (nihaltp.vercel.app)](https://nihaltp.vercel.app/): Main portfolio — hero, education, hackathons, and apps
+- [llms.txt](https://nihaltp.vercel.app/llms.txt): LLM-friendly overview of the main portfolio site
+
+## Apps
+
+- [F-Droid Repository](https://nihaltp.github.io/fdroid): Personal F-Droid repo hosting open-source Android apps built by Nihal T P
+- [Apps listing](https://nihaltp.vercel.app/apps): Full list of Flutter/mobile apps
+
+## Social & Contact
+
+- [GitHub](https://github.com/nihaltp): Source code for all projects
+- [GitLab](https://gitlab.com/nihaltp): Mirror repositories
+- [LinkedIn](https://linkedin.com/in/nihal-tp): Professional profile
